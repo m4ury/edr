@@ -1,9 +1,9 @@
 <head>
     <title>
         INICIO
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="" type="text/css">
     </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="" type="text/css">
 </head>
 <body>
 <div class="contenido" align="center">
