@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="general">
-        <div class="formulario" align="center">
+        <div class="formulario" align="center" >
             <div>
                 <h1>Formulario de Ingreso</h1>
             </div>
@@ -30,21 +30,15 @@
                         <input type="password" name="password" placeholder="PASSWORD" required>
                      </td>
                  </tr>
-                 <tr>
-                     <td>
-                         REPITA PSSWD:
-                     </td>
-                     <td>
-                         <input type="password" name="repite" required>
-                     </td>
-                 </tr>
              </table>
                 <input type="submit" name="aceptar" value="ACEPTAR">
             </form>
+            <br>
+            <a href='crea_usuario.php'>Crear Usuario</a>
         </div>
+
     </div>
 </body>
-
 <?php
 
 
